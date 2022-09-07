@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "sandbox"
+version = "0.1.0"
+description = "sandbox to test ideas"
+authors = ["Yahya Gilany <yahya.gilany@live.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+ipykernel = "^6.15.2"
+numpy = "^1.23.2"
+pandas = "^1.4.4"
+matplotlib = "^3.5.3"
+notebook = "^6.4.12"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
