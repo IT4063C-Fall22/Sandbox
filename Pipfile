@@ -9,6 +9,12 @@ notebook = "*"
 pandas = "*"
 numpy = "*"
 matplotlib = "*"
+opendatasets = "*"
+requests = "*"
+python-dotenv = "*"
+sqlalchemy = "*"
+pymongo = {extras = ["srv"], version = "*"}
+beautifulsoup4 = "*"
 
 [dev-packages]
 
