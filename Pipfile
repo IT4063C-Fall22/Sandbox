@@ -15,6 +15,7 @@ python-dotenv = "*"
 sqlalchemy = "*"
 pymongo = {extras = ["srv"], version = "*"}
 beautifulsoup4 = "*"
+scipy = "*"
 
 [dev-packages]
 
