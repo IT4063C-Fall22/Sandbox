@@ -16,6 +16,9 @@ sqlalchemy = "*"
 pymongo = {extras = ["srv"], version = "*"}
 beautifulsoup4 = "*"
 scipy = "*"
+scikit-learn = "*"
+plotly = "==5.10.0"
+seaborn = "*"
 
 [dev-packages]
 
