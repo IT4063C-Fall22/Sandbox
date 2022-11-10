@@ -9,6 +9,18 @@ notebook = "*"
 pandas = "*"
 numpy = "*"
 matplotlib = "*"
+opendatasets = "*"
+requests = "*"
+python-dotenv = "*"
+sqlalchemy = "*"
+pymongo = {extras = ["srv"], version = "*"}
+beautifulsoup4 = "*"
+scipy = "*"
+scikit-learn = "*"
+plotly = "==5.10.0"
+seaborn = "*"
+lxml = "*"
+html5lib = "*"
 
 [dev-packages]
 
