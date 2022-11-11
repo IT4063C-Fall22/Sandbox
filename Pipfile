@@ -21,6 +21,8 @@ plotly = "==5.10.0"
 seaborn = "*"
 lxml = "*"
 html5lib = "*"
+pandas-profiling = "*"
+ipywidgets = "*"
 
 [dev-packages]
 
